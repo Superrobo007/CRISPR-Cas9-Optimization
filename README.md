@@ -1,2 +1,2 @@
-# IBS-PROJECT-C7-
-Machine Learning Models for Predicting Pharmacokinetic Properties Based on Topological Descriptors
+# CRISPR-Cas9-Optimization
+Optimization of CRISPR-Cas9 targeting using sequence alignment and statistical modeling
